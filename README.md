@@ -1,1 +1,0 @@
-# React-Native-Todo-List-Firebase-Authentication
